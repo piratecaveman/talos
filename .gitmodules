@@ -1,9 +1,9 @@
 [submodule "ansible"]
 	path = ansible
-	url = ./ansible
+	url = git@github.com:piratecaveman/talos-ansible.git
 [submodule "jenkins"]
 	path = jenkins
-	url = ./jenkins
+	url = git@github.com:piratecaveman/talos-jenkins.git
 [submodule "terraform"]
 	path = terraform
-	url = ./terraform
+	url = git@github.com:piratecaveman/talos-terraform.git
