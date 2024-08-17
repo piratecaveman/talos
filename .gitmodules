@@ -1,9 +1,12 @@
 [submodule "ansible"]
 	path = ansible
 	url = git@github.com:piratecaveman/talos-ansible.git
+	branch = master
 [submodule "jenkins"]
 	path = jenkins
 	url = git@github.com:piratecaveman/talos-jenkins.git
+	branch = master
 [submodule "terraform"]
 	path = terraform
 	url = git@github.com:piratecaveman/talos-terraform.git
+	branch = master
