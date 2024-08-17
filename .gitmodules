@@ -1,0 +1,9 @@
+[submodule "ansible"]
+	path = ansible
+	url = ./ansible
+[submodule "jenkins"]
+	path = jenkins
+	url = ./jenkins
+[submodule "terraform"]
+	path = terraform
+	url = ./terraform

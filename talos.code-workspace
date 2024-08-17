@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "ansible"
+		},
+		{
+			"path": "jenkins"
+		},
+		{
+			"path": "terraform"
+		}
+	],
+	"settings": {
+		"yaml.schemas": {
+			"https://raw.githubusercontent.com/canonical/cloud-init/main/cloudinit/config/schemas/versions.schema.cloud-config.json": "file:///home/wraith/repos/talos/terraform/cloud_init.yml"
+		}
+	}
+}
