@@ -12,7 +12,8 @@
 	],
 	"settings": {
 		"yaml.schemas": {
-			"https://raw.githubusercontent.com/canonical/cloud-init/main/cloudinit/config/schemas/versions.schema.cloud-config.json": "file:///home/wraith/repos/talos/terraform/cloud_init.yml"
+			"https://raw.githubusercontent.com/canonical/cloud-init/main/cloudinit/config/schemas/versions.schema.cloud-config.json": "file:///home/wraith/repos/talos/terraform/cloud_init.yml",
+			"https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/inventory.json": "file:///home/wraith/repos/talos/ansible/inventory/group_vars/all/ssh.yml"
 		},
 		"ansible.python.interpreterPath": "/home/wraith/repos/talos/ansible/.venv/bin/python"
 	}
